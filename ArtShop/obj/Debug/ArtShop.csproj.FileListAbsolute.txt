@@ -1,0 +1,13 @@
+C:\Users\emili\source\repos\ArtShop\ArtShop\bin\Debug\ArtShop.exe.config
+C:\Users\emili\source\repos\ArtShop\ArtShop\bin\Debug\ArtShop.exe
+C:\Users\emili\source\repos\ArtShop\ArtShop\bin\Debug\ArtShop.pdb
+C:\Users\emili\source\repos\ArtShop\ArtShop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\emili\source\repos\ArtShop\ArtShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.csprojAssemblyReference.cache
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.Form1.resources
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.Properties.Resources.resources
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.csproj.CopyComplete
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.exe
+C:\Users\emili\source\repos\ArtShop\ArtShop\obj\Debug\ArtShop.pdb
